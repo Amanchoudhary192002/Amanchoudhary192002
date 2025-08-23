@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchoudhary192002&label=Profile%20views&color=0e75b6&style=flat" alt="amanchoudhary192002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchoudhary192002" alt="amanchoudhary192002" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://aman19in.vercel.app/](https://aman19in.vercel.app/)
 
